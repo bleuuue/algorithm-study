@@ -7,12 +7,12 @@
 
 ### What To-Do
 * 알고리즘 설명 및 풀이 공유
-* 코드 리뷰
+* 코드 리뷰 및 merge
 * 질문하기
 * 다음 문제 선정
 
 
-## 진행 중인 문제
+## In Progress
 https://school.programmers.co.kr/learn/courses/30/parts/12077
 <br>
 * programmers의 `해시 알고리즘` 5문제 풀어오기.
@@ -29,8 +29,8 @@ https://school.programmers.co.kr/learn/courses/30/parts/12077
 <br>
 > Ex) programmers - 1845 - bleuuue.js, git_id.md
 
-* 소스코드 파일명: 자신의_git_id 와 자신이 푼 language 확장자명으로 작성한다.
-* 풀이 파일명: 자신의_git_id.md 로 작성한다.
+* 소스코드 파일명: 자신의 git_id 와 풀이한 language 확장자로 작성한다.
+* 풀이 파일명: 자신의 git_id.md 로 작성한다.
   
 ```bash
 ├── programmers
@@ -46,14 +46,14 @@ https://school.programmers.co.kr/learn/courses/30/parts/12077
 ```
 
 ## Branch Rule
-* **브랜치 생성**: git id
+* **개인 브랜치 생성**: 자신의 `git id`로 브랜치를 생성해 작업한다.
 * 모임 전까지 `PR` 을 올리도록 한다.
 * 모임 시 `Code Review` 후 `merge` 하도록 한다.
 
+
 ## Commit Message Rule
-소스코드 및 문제 풀이에 대해서는 문제 사이트, 문제 번호 입력 후 작성한다.
-<br>
-Ex) programmers_1000_hi
+소스코드 및 문제 풀이에 대해서는 메세지에 `사이트_문제 번호` 입력 후 작성한다.
+> Ex) programmers_1000_hi
 
 그외는 자유롭게 작성.
 
