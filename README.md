@@ -33,6 +33,7 @@ https://school.programmers.co.kr/learn/courses/30/parts/12077
 * 풀이 파일명: 자신의 git_id.md 로 작성한다.
   
 ```bash
+src
 ├── programmers
 │   ├── 1845
 │   │     ├── beluuue.js
