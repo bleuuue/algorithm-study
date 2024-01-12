@@ -13,9 +13,9 @@
 
 
 ## In Progress
-https://school.programmers.co.kr/learn/courses/30/parts/12077
+[https://school.programmers.co.kr/learn/courses/30/parts/12077](https://school.programmers.co.kr/learn/courses/30/parts/12081)
 <br>
-* programmers의 `해시 알고리즘` 5문제 풀어오기.
+* programmers의 `Stack/Queue 알고리즘` 풀어오기.
 
 
 ## Algorithm training space
