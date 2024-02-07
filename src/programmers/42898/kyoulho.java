@@ -12,6 +12,8 @@ class Solution {
 
         for (int i = 1; i <= n; i++) {
             for (int j = 1; j <= m; j++) {
+                // 학교는 항상 오른쪽 아래다.
+                // 왼쪽과 위만 신경쓰면 된다.
                 if (memo[i][j] == -1) {
                     memo[i][j] = 0;
                 } else if (memo[i][j] == 0) {
