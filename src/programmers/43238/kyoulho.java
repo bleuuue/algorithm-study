@@ -31,6 +31,7 @@ class Solution {
     private static long getCount(int n, int[] times, long midTime) {
         long cnt = 0;
         for (int time : times) {
+            // 주어진 시간동안 각각의 심사원들이 심사하는 인원들
             cnt += midTime / time;
             if (cnt >= n) break;
         }
